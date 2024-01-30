@@ -1,6 +1,6 @@
 ///
 ///
-// let i = prompt("enter your number");
+let i = prompt("enter your number");
 for (let i = 1; i <= 20; i++) {
   let result = 5 * i;
 
